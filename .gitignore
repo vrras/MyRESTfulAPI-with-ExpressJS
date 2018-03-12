@@ -1,0 +1,11 @@
+# untuk file berikut ini tidak di track oleh git
+
+_site
+_assets
+node_modules
+
+# untuk file dengan ektensi berikut ini tidak di track oleh git
+
+*.pdf
+*.map
+*.psd
